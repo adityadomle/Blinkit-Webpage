@@ -11,4 +11,3 @@ This is a simple 🟢 **Blinkit UI homepage clone** built using **HTML** and **C
 
 🔹 HTML5  
 🔹 CSS3
-/

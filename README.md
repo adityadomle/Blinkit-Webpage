@@ -9,5 +9,5 @@ This is a simple 🟢 **Blinkit UI homepage clone** built using **HTML** and **C
 
 ## 🛠️ Tech Stack
 
-🔹 HTML5  ,
+🔹 HTML5 
 🔹 CSS3

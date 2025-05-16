@@ -2,7 +2,7 @@ This is a simple 🟢 **Blinkit UI homepage clone** built using **HTML** and **C
 
 ## 📸 Preview
 
-![Screenshot of the Blinkit Clone](view.png) 
+![Screenshot of the Blinkit Clone](View.png) 
 ## 🚀 Features
 
 ✨ Pixel-perfect layout inspired by the Blinkit homepage  
